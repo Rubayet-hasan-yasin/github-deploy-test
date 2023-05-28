@@ -9,7 +9,7 @@ import Home from './components/Home/Home.jsx'
 
 const router = createBrowserRouter([
   {
-    path: '/h',
+    path: '/',
     element: <App/>
   },
   {
